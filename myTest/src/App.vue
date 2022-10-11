@@ -1,5 +1,6 @@
 <script>
-import { axios } from "Vue";
+import axios from 'axios'
+import VueAxios from 'vue-axios'
 
 export default {
   data() {
